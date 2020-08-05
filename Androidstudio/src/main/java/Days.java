@@ -15,8 +15,10 @@ public class Days {
         switch (week){
         case 1:
         day = "Sunday";
+        break;
         case 2:
         day = "Monday";
+        break;
         case 3:
         day = "Tuesday";
         System.out.println("The third day of the week is " + day);
